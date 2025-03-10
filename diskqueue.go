@@ -14,8 +14,6 @@ import (
 	"time"
 )
 
-// logging stuff copied from github.com/nsqio/nsq/internal/lg
-
 type LogLevel int
 
 const (
